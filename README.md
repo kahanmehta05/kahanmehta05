@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kahan Mehta</h1>
-<h3 align="center">I am a junior currently pursuing my Bachelors in Computer Engineering.</h3>
+<h3 align="center">Computer Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kahanmehta05&label=Profile%20views&color=0e75b6&style=flat" alt="kahanmehta05" /> </p>
 
