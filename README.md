@@ -13,7 +13,7 @@
 
 🎓 Pursuing **M.Tech in ICT (Software Systems)** at **DAIICT**  
 💡 Exploring: **Databases**, **Distributed Systems**, **ML**, and **Advanced Software Engineering**  
-🧠 Learning: **React**, **Node.js**, and mastering **Competitive Programming**  
+🧠 Learning: **Data structures, Algorithms**, **Database**, **ML** and **Systems**  
 💬 Ask me about: `Java`, `C`, `Python`, or full-stack web dev  
 📧 Reach me at: **kahanmehta05@gmail.com**
 
